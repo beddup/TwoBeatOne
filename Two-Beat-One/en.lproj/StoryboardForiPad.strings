@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Rank"; ObjectID = "FOC-ui-OUz"; */
+"FOC-ui-OUz.normalTitle" = "Rank";
+
+/* Class = "UIButton"; normalTitle = "Game History"; ObjectID = "IiV-9y-MdO"; */
+"IiV-9y-MdO.normalTitle" = "Game History";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "OBr-CW-bNp"; */
+"OBr-CW-bNp.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "To Comment"; ObjectID = "Q7S-9A-rXn"; */
+"Q7S-9A-rXn.normalTitle" = "To Comment";
+
+/* Class = "UIButton"; normalTitle = "MENU"; ObjectID = "VSQ-qU-x3a"; */
+"VSQ-qU-x3a.normalTitle" = "MENU";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "ZkX-h8-2k5"; */
+"ZkX-h8-2k5.normalTitle" = "Choose";
+
+/* Class = "UILabel"; text = "Two Beat One"; ObjectID = "fkz-0f-JY0"; */
+"fkz-0f-JY0.text" = "Two Beat One";
+
+/* Class = "UIButton"; normalTitle = "New Game"; ObjectID = "jhU-cr-vQr"; */
+"jhU-cr-vQr.normalTitle" = "New Game";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "jpu-F2-Qmh"; */
+"jpu-F2-Qmh.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "How to Play"; ObjectID = "xDQ-tN-omx"; */
+"xDQ-tN-omx.normalTitle" = "How to Play";

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TBONoticeView">
+            <rect key="frame" x="0.0" y="0.0" width="270" height="180"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="btQ-5H-Vlm">
+                    <rect key="frame" x="0.0" y="0.0" width="270" height="180"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RCm-EH-4bl">
+                    <rect key="frame" x="8" y="0.0" width="254" height="180"/>
+                    <fontDescription key="fontDescription" type="system" weight="light" pointSize="18"/>
+                    <color key="textColor" red="1" green="1" blue="0.87058823529999996" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="RCm-EH-4bl" firstAttribute="trailing" secondItem="btQ-5H-Vlm" secondAttribute="trailing" constant="8" id="4fl-bg-5mf"/>
+                <constraint firstItem="btQ-5H-Vlm" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="FRP-8A-Nl4"/>
+                <constraint firstItem="RCm-EH-4bl" firstAttribute="leading" secondItem="btQ-5H-Vlm" secondAttribute="leading" constant="8" id="KmY-Ez-CIT"/>
+                <constraint firstItem="RCm-EH-4bl" firstAttribute="bottom" secondItem="btQ-5H-Vlm" secondAttribute="bottom" id="Oo8-78-PKR"/>
+                <constraint firstAttribute="bottom" secondItem="RCm-EH-4bl" secondAttribute="bottom" id="RdC-QW-mX9"/>
+                <constraint firstAttribute="trailing" secondItem="RCm-EH-4bl" secondAttribute="trailing" constant="8" id="esc-Xp-8FJ"/>
+                <constraint firstItem="RCm-EH-4bl" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="jxN-CC-hs7"/>
+                <constraint firstAttribute="trailing" secondItem="btQ-5H-Vlm" secondAttribute="trailing" id="knr-4E-BYG"/>
+                <constraint firstAttribute="bottom" secondItem="btQ-5H-Vlm" secondAttribute="bottom" id="rm4-dh-hpT"/>
+                <constraint firstItem="RCm-EH-4bl" firstAttribute="top" secondItem="btQ-5H-Vlm" secondAttribute="top" id="s6B-KT-YbB"/>
+                <constraint firstItem="btQ-5H-Vlm" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="tbZ-mW-A2V"/>
+                <constraint firstItem="RCm-EH-4bl" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="xG2-XF-hvp"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="4fl-bg-5mf"/>
+                    <exclude reference="KmY-Ez-CIT"/>
+                    <exclude reference="Oo8-78-PKR"/>
+                    <exclude reference="s6B-KT-YbB"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="BKGmageView" destination="btQ-5H-Vlm" id="cxM-k7-KdJ"/>
+                <outlet property="messageLabel" destination="RCm-EH-4bl" id="aUZ-9i-EGU"/>
+            </connections>
+            <point key="canvasLocation" x="148" y="-152"/>
+        </view>
+    </objects>
+</document>

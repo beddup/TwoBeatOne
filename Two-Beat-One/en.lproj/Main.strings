@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "9vv-jS-R92"; */
+"9vv-jS-R92.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "选择"; ObjectID = "Apf-Le-RRR"; */
+"Apf-Le-RRR.normalTitle" = "Choose";
+
+/* Class = "UIButton"; normalTitle = "To Comment"; ObjectID = "BA4-cq-aGi"; */
+"BA4-cq-aGi.normalTitle" = "To Comment";
+
+/* Class = "UIButton"; normalTitle = "战绩排名"; ObjectID = "CF8-QX-5UO"; */
+"CF8-QX-5UO.normalTitle" = "LeaderBoard";
+
+/* Class = "UIButton"; normalTitle = "怎么玩"; ObjectID = "ISH-Qc-g1A"; */
+"ISH-Qc-g1A.normalTitle" = "How to Play";
+
+/* Class = "UIButton"; normalTitle = "新游戏"; ObjectID = "R2A-Cv-k3J"; */
+"R2A-Cv-k3J.normalTitle" = "New Game";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "VTR-GV-1tm"; */
+"VTR-GV-1tm.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "作战纪录"; ObjectID = "ZCs-Bx-QND"; */
+"ZCs-Bx-QND.normalTitle" = "Game History";
+
+/* Class = "UIButton"; normalTitle = "MENU"; ObjectID = "jrd-2I-scw"; */
+"jrd-2I-scw.normalTitle" = "MENU";
+
+/* Class = "UILabel"; text = "二顶一"; ObjectID = "kDV-xv-NIp"; */
+"kDV-xv-NIp.text" = "Two Beat One";

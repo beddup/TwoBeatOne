@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "蓝牙"; ObjectID = "3KN-tj-EWi"; */
+"3KN-tj-EWi.normalTitle" = "蓝牙";
+
+/* Class = "UIButton"; normalTitle = "标准对战"; ObjectID = "8gY-wb-Eht"; */
+"8gY-wb-Eht.normalTitle" = "标准对战";
+
+/* Class = "UIButton"; normalTitle = "联网"; ObjectID = "GA4-sL-cer"; */
+"GA4-sL-cer.normalTitle" = "联网";
+
+/* Class = "UIButton"; normalTitle = "单机"; ObjectID = "H4J-tg-tp6"; */
+"H4J-tg-tp6.normalTitle" = "单机";
+
+/* Class = "UIButton"; normalTitle = "布阵对战"; ObjectID = "b5T-E5-5Rk"; */
+"b5T-E5-5Rk.normalTitle" = "布阵对战";

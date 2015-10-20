@@ -1,0 +1,30 @@
+
+
+/* Class = "UIButton"; normalTitle = "战绩排名"; ObjectID = "FOC-ui-OUz"; */
+"FOC-ui-OUz.normalTitle" = "战绩排名";
+
+/* Class = "UIButton"; normalTitle = "作战纪录"; ObjectID = "IiV-9y-MdO"; */
+"IiV-9y-MdO.normalTitle" = "作战纪录";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "OBr-CW-bNp"; */
+"OBr-CW-bNp.normalTitle" = "返回";
+
+/* Class = "UIButton"; normalTitle = "去评分"; ObjectID = "Q7S-9A-rXn"; */
+"Q7S-9A-rXn.normalTitle" = "去评分";
+
+/* Class = "UIButton"; normalTitle = "菜单"; ObjectID = "VSQ-qU-x3a"; */
+"VSQ-qU-x3a.normalTitle" = "菜单";
+
+/* Class = "UILabel"; text = "二顶一"; ObjectID = "fkz-0f-JY0"; */
+"fkz-0f-JY0.text" = "二顶一";
+
+"ZkX-h8-2k5.normalTitle" = "选择";
+
+/* Class = "UIButton"; normalTitle = "新游戏"; ObjectID = "jhU-cr-vQr"; */
+"jhU-cr-vQr.normalTitle" = "新游戏";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "jpu-F2-Qmh"; */
+"jpu-F2-Qmh.normalTitle" = "返回";
+
+/* Class = "UIButton"; normalTitle = "怎么玩"; ObjectID = "xDQ-tN-omx"; */
+"xDQ-tN-omx.normalTitle" = "怎么玩";
